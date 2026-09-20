@@ -230,3 +230,5 @@ use their deterministic strategies, the whole run takes ~13 seconds, and the
 measured results are identical. Configure a key when you want the reasoning
 itself — hypotheses, decisions, explanations — to respond to an arbitrary
 question.
+
+Developed by Dhruv Gouniyal, Parikshit Dahiya, Sagar Makkar
